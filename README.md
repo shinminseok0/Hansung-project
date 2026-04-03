@@ -63,7 +63,7 @@
 
 ## 🎬 7. 시연동영상
 
-- 아이폰 (실물) : 링크 추가 예정
+- [아이폰 (실물)](https://youtu.be/_k7kqoWsh3M)
 - [안드로이드 (실물)](https://www.youtube.com/shorts/lu3h6APcrQk)
 - 리액트 (PC) : 링크 추가 예정
 - 리액트 (모바일) : 링크 추가 예정
