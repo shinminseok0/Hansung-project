@@ -64,7 +64,7 @@
 ## 🎬 7. 시연동영상
 
 - [아이폰 (실물)](https://youtu.be/_k7kqoWsh3M)
-- [안드로이드 (실물)](https://www.youtube.com/shorts/lu3h6APcrQk)
+- [안드로이드 (실물)](https://www.youtube.com/shorts/9y7bUyd70Qw?si=DhRFh-5NGdl9LBEz)
 - [리액트 (PC)](https://youtu.be/QCiATJJtpqY)
 - [리액트 (모바일)](https://youtu.be/aQ8Zl1gsuq0)
 
