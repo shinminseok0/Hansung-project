@@ -67,7 +67,7 @@
 - [아이폰 (실물)](https://youtu.be/_k7kqoWsh3M)
 - [안드로이드 (실물)](https://www.youtube.com/shorts/9y7bUyd70Qw?si=DhRFh-5NGdl9LBEz)
 - [리액트 (PC)](https://youtu.be/O13t144tnC8)
-- [리액트 (모바일)](https://youtu.be/aQ8Zl1gsuq0)
+- [리액트 (모바일)](https://youtu.be/Xx2TGd7h1-M)
 
 ---
 
