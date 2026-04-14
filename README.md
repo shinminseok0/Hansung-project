@@ -15,6 +15,7 @@
 ---
 
 ## 🌐 2. 홈페이지
+🔗 **[SimPhone 서비스 바로가기](https://simphone.kro.kr/)**
 
 ---
 
@@ -63,10 +64,10 @@
 
 ## 🎬 7. 시연동영상
 
-- [아이폰 (실물)](https://youtu.be/_k7kqoWsh3M)
-- [안드로이드 (실물)](https://www.youtube.com/shorts/lu3h6APcrQk)
-- 리액트 (PC) : 링크 추가 예정
-- 리액트 (모바일) : 링크 추가 예정
+- [아이폰 (실물)](https://youtu.be/4XY3Yzg1CVA)
+- [안드로이드 (실물)](https://www.youtube.com/shorts/9y7bUyd70Qw?si=DhRFh-5NGdl9LBEz)
+- [리액트 (PC)](https://youtu.be/O13t144tnC8)
+- [리액트 (모바일)](https://youtu.be/r2S4JZyZufA)
 
 ---
 
