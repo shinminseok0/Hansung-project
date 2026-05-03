@@ -33,11 +33,11 @@
 ## 📄 4. API 명세서
 
 <details>
-<summary>클릭하면 API 명세서를 볼 수 있습니다</summary>
+<summary>▶ 클릭하면 API 명세서를 볼 수 있습니다</summary>
 
 <br>
 
-![API 명세서](./image/API 명세서.png)
+![API 명세서](./image/API%20%E1%84%86%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A6%E1%84%89%E1%85%A5.png)
 
 </details>
 
