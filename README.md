@@ -37,7 +37,7 @@
 
 <br>
 
-![API 명세서](./image/API%20명세서.png)
+![API 명세서](./image/API명세서.png)
 
 </details>
 
