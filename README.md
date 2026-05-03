@@ -32,13 +32,14 @@
 
 ## 📄 4. API 명세서
 
+## 📄 4. API 명세서
+
 <details>
 <summary>클릭하면 API 명세서를 볼 수 있습니다</summary>
 
 <br>
 
-- Swagger / Postman / Notion 링크 추가 예정
-- 예시:
+![API 명세서](./image/API%20명세서.png)
 
 </details>
 
