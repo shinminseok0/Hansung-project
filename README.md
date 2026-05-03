@@ -32,8 +32,6 @@
 
 ## 📄 4. API 명세서
 
-## 📄 4. API 명세서
-
 <details>
 <summary>클릭하면 API 명세서를 볼 수 있습니다</summary>
 
