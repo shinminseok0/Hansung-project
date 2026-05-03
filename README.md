@@ -31,13 +31,16 @@
 </details>
 
 ## 📄 4. API 명세서
-> REST API 명세 및 요청/응답 구조 설명
+
+<details>
+<summary>▶ 클릭하면 API 명세서를 볼 수 있습니다</summary>
+
+<br>
 
 - Swagger / Postman / Notion 링크 추가 예정
 - 예시:
 
-
----
+</details>
 
 ## 💻 5. 코드
 
