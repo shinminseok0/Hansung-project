@@ -29,7 +29,9 @@
 ![기능구성도](./image/기능구성도.png)
 
 </details>
+
 ---
+
 ## 📄 4. API 명세서
 
 <details>
@@ -40,7 +42,9 @@
 ![API 명세서](./image/API%20%E1%84%86%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A6%E1%84%89%E1%85%A5.png)
 
 </details>
+
 ---
+
 ## 💻 5. 코드
 
 ### 🔹 Backend
