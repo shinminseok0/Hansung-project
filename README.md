@@ -22,7 +22,7 @@
 ## 🧩 3. 기능구성도
 
 <details>
-<summary>▶ 클릭하면 기능구성도를 볼 수 있습니다</summary>
+<summary> 클릭하면 기능구성도를 볼 수 있습니다</summary>
 
 <br>
 
