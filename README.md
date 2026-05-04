@@ -48,14 +48,22 @@
 ## 💻 5. 코드
 
 ### 🔹 Backend
-- Spring Boot 기반 서버
+- Spring Boot 기반 서버  
+- 🔗 https://github.com/JunghunnKim/capstone-phoneshop-backend
 
 ### 🔹 Frontend
-- React 기반 웹 서비스
+- React 기반 웹 서비스  
+- 🔗 https://github.com/gityskim/capstone-phoneshop-frontend
 
 ### 🔹 Mobile
-- iOS (Swift)
-- Android (Kotlin)
+
+#### 📱 iOS
+- Swift 기반 iOS 앱  
+- 🔗 https://github.com/realNahyeonPark/capstone-ios-phoneshop.git
+
+#### 🤖 Android
+- Kotlin 기반 Android 앱  
+- 🔗 https://github.com/shinminseok0/Android/
 
 ---
 
