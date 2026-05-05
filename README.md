@@ -1,107 +1,160 @@
-# Hansung-project
-한성대학교 웹공학 캡스톤디자인(휴대폰 쇼핑몰)
+<h1 align="center">📱 SimPhone</h1>
+<h3 align="center">스마트폰 비교 & 구매 플랫폼</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Capstone-87CEEB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-Web%20%2F%20iOS%20%2F%20Android-87CEEB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Running-00BFFF?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://simphone.kro.kr/">
+    <img src="https://img.shields.io/badge/🌐 서비스 바로가기-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## 📌 1. 목차
-- [홈페이지](#-2-홈페이지)
-- [기능구성도](#-3-기능구성도)
-- [API 명세서](#-4-api-명세서)
-- [코드](#-5-코드)
-- [App 설치](#-6-app-설치)
-- [시연동영상](#-7-시연동영상)
-- [작년 우수팀과 비교표](#-8-작년-우수팀과-비교표)
+## 📌 목차
+- [🌐 홈페이지](#-홈페이지)
+- [🧩 기능구성도](#-기능구성도)
+- [📄 API 명세서](#-api-명세서)
+- [💻 코드](#-코드)
+- [📱 App 설치](#-app-설치)
+- [🎬 시연동영상](#-시연동영상)
+- [📊 비교표](#-작년-우수팀과-비교표)
 
 ---
 
-## 🌐 2. 홈페이지
-🔗 **[SimPhone 서비스 바로가기](https://simphone.kro.kr/)**
+## 🌐 홈페이지
+
+> 💡 실제 서비스 운영 중
+
+🔗 **https://simphone.kro.kr/**
 
 ---
 
-## 🧩 3. 기능구성도
+## 🧩 기능구성도
 
 <details>
-<summary> 클릭하면 기능구성도를 볼 수 있습니다</summary>
+<summary>🔽 클릭해서 보기</summary>
 
 <br>
 
-![기능구성도](./image/기능구성도.png)
+<p align="center">
+  <img src="./image/기능구성도.png" width="80%">
+</p>
 
 </details>
 
 ---
 
-## 📄 4. API 명세서
+## 📄 API 명세서
 
 <details>
-<summary>클릭하면 API 명세서를 볼 수 있습니다</summary>
+<summary>🔽 클릭해서 보기</summary>
 
 <br>
 
-![API 명세서](./image/API%20%E1%84%86%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A6%E1%84%89%E1%85%A5.png)
+<p align="center">
+  <img src="./image/API%20%E1%84%86%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A6%E1%84%89%E1%85%A5.png" width="80%">
+</p>
 
 </details>
 
 ---
 
-## 💻 5. 코드
+## 💻 코드
 
 ### 🔹 Backend
-- Spring Boot 기반 서버  
-- 🔗 https://github.com/JunghunnKim/capstone-phoneshop-backend
+<p>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+</p>
+
+🔗 https://github.com/JunghunnKim/capstone-phoneshop-backend  
+
+---
 
 ### 🔹 Frontend
-- React 기반 웹 서비스  
-- 🔗 https://github.com/gityskim/capstone-phoneshop-frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+</p>
+
+🔗 https://github.com/gityskim/capstone-phoneshop-frontend  
+
+---
 
 ### 🔹 Mobile
 
 #### 📱 iOS
-- Swift 기반 iOS 앱  
-- 🔗 https://github.com/realNahyeonPark/capstone-ios-phoneshop.git
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white">
+</p>
+
+🔗 https://github.com/realNahyeonPark/capstone-ios-phoneshop  
+
+---
 
 #### 🤖 Android
-- Kotlin 기반 Android 앱  
-- 🔗 https://github.com/shinminseok0/Android/
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white">
+</p>
+
+🔗 https://github.com/shinminseok0/Android  
 
 ---
 
-## 📱 6. App 설치
+## 📱 App 설치
 
-- AppStore  
-  
-
-- TestFlight  
- 
-
-- GooglePlay  
-    
+| 플랫폼 | 상태 |
+|------|------|
+| 🍎 App Store | 🔄 준비중 |
+| 🧪 TestFlight | 🔄 준비중 |
+| 🤖 Google Play | 🔄 준비중 |
 
 ---
 
-## 🎬 7. 시연동영상
+## 🎬 시연동영상
 
-- [아이폰 (실물)](https://youtu.be/4XY3Yzg1CVA)
-- [안드로이드 (실물)](https://www.youtube.com/shorts/9y7bUyd70Qw?si=DhRFh-5NGdl9LBEz)
-- [리액트 (PC)](https://youtu.be/O13t144tnC8)
-- [리액트 (모바일)](https://youtu.be/r2S4JZyZufA)
-
----
-
-## 📊 8. 작년 우수팀과 비교표
-
-| 항목 | SimPhone | 최우수 | 우수1 | 우수2 | 우수3 |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| **Code** | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Doc** | ✅ | ✅ | ✅ | ❌ | ✅ |
-| **영상** | ✅ | ✅ | ❌ | ❌ | ❌ |
-| **화면** | **I, A, R** | R | R | R | R |
-| **AppStore/GooglePlay** | ✅ | ❌ | ❌ | ❌ | ❌ |
+<p align="center">
+  <a href="https://youtu.be/4XY3Yzg1CVA">
+    <img src="https://img.shields.io/badge/iOS Demo-87CEEB?style=for-the-badge">
+  </a>
+  <a href="https://www.youtube.com/shorts/9y7bUyd70Qw">
+    <img src="https://img.shields.io/badge/Android Demo-00BFFF?style=for-the-badge">
+  </a>
+  <a href="https://youtu.be/O13t144tnC8">
+    <img src="https://img.shields.io/badge/Web PC-1E90FF?style=for-the-badge">
+  </a>
+  <a href="https://youtu.be/r2S4JZyZufA">
+    <img src="https://img.shields.io/badge/Web Mobile-4682B4?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
+## 📊 작년 우수팀과 비교표
 
+| 항목 | 🌟 SimPhone | 🏆 최우수 | 🥈 우수1 | 🥉 우수2 | 🎖 우수3 |
+|------|:---:|:---:|:---:|:---:|:---:|
+| Code | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Doc | ✅ | ✅ | ✅ | ❌ | ✅ |
+| 영상 | ✅ | ✅ | ❌ | ❌ | ❌ |
+| 화면 | **iOS / Android / Web** | Web | Web | Web | Web |
+| 배포 | ✅ | ❌ | ❌ | ❌ | ❌ |
 
+---
 
+## ✨ 포인트
 
+<p align="center">
+  <img src="https://img.shields.io/badge/✔ 멀티플랫폼-87CEEB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/✔ 실제배포-00BFFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/✔ 완성도-1E90FF?style=for-the-badge">
+</p>
+
+---
+
+<p align="center">
+  💡 <b>비교 → 선택 → 구매까지 한 번에</b>
+</p>
