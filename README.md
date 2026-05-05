@@ -143,33 +143,14 @@
 | 화면 | **iOS / Android / Web** | Web | Web | Web | Web |
 | 배포 | ✅ | ❌ | ❌ | ❌ | ❌ |
 
-## (작년 우수팀)
-
-<p align="center">
-
-<a href="https://github.com/HwangCheese/VideoSummary">
-  <img src="https://img.shields.io/badge/🏆 최우수 - 황치즈 (VideoSummary)-87CEEB?style=for-the-badge">
-</a>
-
-<br><br>
-
-<a href="https://github.com/GolddBunny/Domain_QA_Gen">
-  <img src="https://img.shields.io/badge/🥈 우수1 - 황금토끼 (Domain QA Gen)-00BFFF?style=for-the-badge">
-</a>
-
-<br><br>
-
-<a href="https://github.com/kola0709/2025Capstone/tree/master">
-  <img src="https://img.shields.io/badge/🥉 우수2 - 초신성 (설명 없음)-1E90FF?style=for-the-badge">
-</a>
-
-<br><br>
-
-<a href="https://github.com/hsu-capstone-prism/DamSeol">
-  <img src="https://img.shields.io/badge/🎖 우수3 - Prism (DamSeol)-4682B4?style=for-the-badge">
-</a>
-
-</p>
 ---
+
+## 🔗 참고 (작년 우수팀 GitHub)
+
+- 🏆 최우수: https://github.com/HwangCheese/VideoSummary  
+- 🥈 우수1: https://github.com/GolddBunny/Domain_QA_Gen  
+- 🥉 우수2: https://github.com/kola0709/2025Capstone/tree/master  
+- 🎖 우수3: https://github.com/hsu-capstone-prism/DamSeol  
+
 
 
