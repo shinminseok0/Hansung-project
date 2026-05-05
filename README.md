@@ -145,16 +145,4 @@
 
 ---
 
-## ✨ 포인트
 
-<p align="center">
-  <img src="https://img.shields.io/badge/✔ 멀티플랫폼-87CEEB?style=for-the-badge">
-  <img src="https://img.shields.io/badge/✔ 실제배포-00BFFF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/✔ 완성도-1E90FF?style=for-the-badge">
-</p>
-
----
-
-<p align="center">
-  💡 <b>비교 → 선택 → 구매까지 한 번에</b>
-</p>
