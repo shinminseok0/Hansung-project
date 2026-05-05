@@ -141,7 +141,7 @@
 | Doc | ✅ | ✅ | ✅ | ❌ | ✅ |
 | 영상 | ✅ | ✅ | ❌ | ❌ | ❌ |
 | 화면 | **iOS / Android / Web** | Web | Web | Web | Web |
-| 배포 | ✅ | ❌ | ❌ | ❌ | ❌ |
+| AppStore/GooglePlay | ✅ | ❌ | ❌ | ❌ | ❌ |
 
 ## 🔗 참고 (작년 우수팀 GitHub)
 
