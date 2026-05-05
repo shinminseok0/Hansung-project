@@ -143,8 +143,6 @@
 | 화면 | **iOS / Android / Web** | Web | Web | Web | Web |
 | 배포 | ✅ | ❌ | ❌ | ❌ | ❌ |
 
----
-
 ## 🔗 참고 (작년 우수팀 GitHub)
 
 - 🏆 최우수: https://github.com/HwangCheese/VideoSummary  
@@ -152,5 +150,5 @@
 - 🥉 우수2: https://github.com/kola0709/2025Capstone/tree/master  
 - 🎖 우수3: https://github.com/hsu-capstone-prism/DamSeol  
 
-
+---
 
