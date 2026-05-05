@@ -137,10 +137,10 @@
 
 | 항목 | 🌟 SimPhone | 🏆 최우수 | 🥈 우수1 | 🥉 우수2 | 🎖 우수3 |
 |------|:---:|:---:|:---:|:---:|:---:|
-|      Code | ✅ | ✅ | ✅ | ✅ | ✅ |
-|      Doc | ✅ | ✅ | ✅ | ❌ | ✅ |
-|      영상 | ✅ | ✅ | ❌ | ❌ | ❌ |
-|      화면 | **iOS / Android / Web** | Web | Web | Web | Web |
+| Code | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Doc | ✅ | ✅ | ✅ | ❌ | ✅ |
+| 영상 | ✅ | ✅ | ❌ | ❌ | ❌ |
+| 화면 | **iOS / Android / Web** | Web | Web | Web | Web |
 | AppStore/GooglePlay | ✅ | ❌ | ❌ | ❌ | ❌ |
 
 ## 🔗 참고 (작년 우수팀 GitHub)
