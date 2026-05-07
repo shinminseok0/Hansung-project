@@ -120,7 +120,7 @@
   <a href="https://youtu.be/4XY3Yzg1CVA">
     <img src="https://img.shields.io/badge/iOS Demo-87CEEB?style=for-the-badge">
   </a>
-  <a href="https://www.youtube.com/shorts/9y7bUyd70Qw">
+  <a href="https://https://youtu.be/ka3JK30xX0o?si=aDnNPY-mMtPFuRk_">
     <img src="https://img.shields.io/badge/Android Demo-00BFFF?style=for-the-badge">
   </a>
   <a href="https://youtu.be/O13t144tnC8">
