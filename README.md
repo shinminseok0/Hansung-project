@@ -108,8 +108,7 @@
 
 | 플랫폼 | 상태 |
 |------|------|
-| 🍎 App Store | 🔄 준비중 |
-| 🧪 TestFlight | 🔄 준비중 |
+| 🧪 TestFlight | 앱 등록완료 |
 | 🤖 Google Play | 🔄 준비중 |
 
 ---
