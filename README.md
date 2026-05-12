@@ -106,11 +106,13 @@
 
 ## 📱 App 설치
 
-| 플랫폼 | 상태 |
-|------|------|
-| 🧪 TestFlight | 앱 등록완료 |
-| 🤖 Google Play | 🔄 준비중 |
+현재 **iOS TestFlight 앱 등록이 완료**되었으며,  
+Google Play 배포는 준비 중입니다.
 
+| 플랫폼 | 상태 | 링크 |
+|---|---|---|
+| 🍎 iOS TestFlight | ✅ 등록 완료 | [앱 테스트 참여하기](https://testflight.apple.com/join/HzDkWmJ8) |
+| 🤖 Google Play | 🔄 준비 중 | Coming Soon |
 ---
 
 ## 🎬 시연동영상
