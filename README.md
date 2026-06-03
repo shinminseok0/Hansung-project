@@ -112,7 +112,7 @@ Google Play 배포는 준비 중입니다.
 | 플랫폼 | 상태 | 링크 |
 |---|---|---|
 | 🍎 iOS TestFlight | ✅ 등록 완료 | [앱 테스트 참여하기](https://testflight.apple.com/join/HzDkWmJ8) |
-| 🤖 Google Play | 🔄 준비 중 | Coming Soon |
+| 🤖 Google Play | ✅ 등록 완료 | [Google Play에서 설치하기](https://play.google.com/store/apps/details?id=com.simphone.app) |
 ---
 
 ## 🎬 시연동영상
