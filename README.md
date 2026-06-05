@@ -156,6 +156,6 @@ Google Play 배포는 준비 중입니다.
 ## 🖼️ 캡스톤 이미지
 
 <p align="center">
-  <img src="./image/캡스톤.jpeg" width="80%">
+  <img src="./image/abc.jpeg" width="80%">
 </p>
 
